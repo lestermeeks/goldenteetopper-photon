@@ -1,0 +1,12 @@
+Reference, Value, Footprint,Count,MFG,MFG PN,Supplier,Supplier PN
+P1,CONN_01X04,goldentee_topper_base:CONN_0.156,1,,,,
+P2,CONN_01X16,goldentee_topper_base:CONN_1x16_0.156,1,,,,
+P3,CONN_01X06,Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm,1,,,,
+"R1,R2,R3,R5,R7,R12,R18,R19,R20,R21,R22,R23,R24,R26,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40",47K,Resistors_SMD:R_0603_HandSoldering,26,,,,
+"C3,C4",10uF 25V,Capacitors_SMD:C_1210_HandSoldering,2,,,,
+"U2,U4,U5",SN74LVC2T45,SMD_Packages:SOIC-8-N,3,,,,
+"C1,C2,C7,C8,C9,C10",0.1uF 25V,Capacitors_SMD:C_0805_HandSoldering,6,,,,
+"Q1,Q3,Q5,Q7,Q9,Q11,Q13",Q_NMOS_DGS,TO_SOT_Packages_SMD:SOT-23_Handsoldering,7,,,,
+"Q2,Q4,Q6,Q8,Q10,Q12,Q14",Q_PMOS_GDS,TO_SOT_Packages_SMD:TO-252-2Lead,7,,,,
+M1,photon_module,goldentee_topper_base:photon,1,,,,
+U1,NCP1117,TO_SOT_Packages_SMD:SOT-223,1,,,,
